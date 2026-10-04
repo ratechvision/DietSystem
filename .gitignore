@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment/secrets
+.env
+
+# Local datasets
+data/
+
+# Generated ML models
+models/
+
+# Generated results and graphs
+results/
+graphs/
+
+# OS files
+.DS_Store
+Thumbs.db
